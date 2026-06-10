@@ -17,17 +17,8 @@ O sistema permite o gerenciamento de produtos e controle de estoque de forma sim
 ## 🛠️ Tecnologias utilizadas
 
 - PHP  
-- MySQL (ou outro banco de dados, se usar)  
-- HTML  
+- MySQL
 - CSS  
-- JavaScript  
-
-## 📂 Como usar
-
-1. Faça o download ou clone o projeto  
-2. Importe o banco de dados (se houver)  
-3. Configure a conexão com o banco no arquivo do sistema  
-4. Rode o projeto em um servidor local (XAMPP, WAMP ou similar)
 
 ## 📄 Objetivo
 
